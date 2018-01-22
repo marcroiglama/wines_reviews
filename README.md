@@ -9,4 +9,4 @@ The steps to execute the project:
 - execute word_paser.py to o obtain ranking_words.csv from wines.csv
 - import all the resulting csv's as the database of the wines.pbix
 
-See my powerBi project on this [link]https://app.powerbi.com/view?r=eyJrIjoiZjVkYmVjYWUtODkwZS00MTM0LWI2MjgtOTEzY2Y2OTNlZjhhIiwidCI6IjUxNjYwNDhlLTg1Y2ItNDc1Yy1hNTYyLWY4MTBjNTI1OGZkZiIsImMiOjh9
+See my powerBi project on this [link] https://app.powerbi.com/view?r=eyJrIjoiZjVkYmVjYWUtODkwZS00MTM0LWI2MjgtOTEzY2Y2OTNlZjhhIiwidCI6IjUxNjYwNDhlLTg1Y2ItNDc1Yy1hNTYyLWY4MTBjNTI1OGZkZiIsImMiOjh9
